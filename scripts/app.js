@@ -39,3 +39,4 @@ console.log(myArray);
 let myElement = document.getElementById("myElement");
 console.log(myElement);
 myElement.textContent = "I changed the text content from JS!";
+// This is a comment in my app js on kens branch
